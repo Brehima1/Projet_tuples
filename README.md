@@ -83,5 +83,3 @@ Ce projet consiste à gérer des données en Python à l’aide de **tuples** et
   * Formatage de l’affichage
 
 ---
-
- et le modifier librement.
